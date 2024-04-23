@@ -1,0 +1,6 @@
+@pracSoapCalculator_HostAddress = http://localhost:5153
+
+GET {{pracSoapCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

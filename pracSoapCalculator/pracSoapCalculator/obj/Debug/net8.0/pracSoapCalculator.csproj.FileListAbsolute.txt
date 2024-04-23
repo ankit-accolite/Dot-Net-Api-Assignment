@@ -1,0 +1,264 @@
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\appsettings.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.exe
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.deps.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.runtimeconfig.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.pdb
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\SoapCore.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.CodeDom.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.csproj.AssemblyReference.cache
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.AssemblyInfoInputs.cache
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.AssemblyInfo.cs
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.csproj.CoreCompileInputs.cache
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.pracSoapCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.pracSoapCalculator.props
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pracSoapCalculator.props
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pracSoapCalculator.props
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\scopedcss\bundle\pracSoapCalculator.styles.css
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoap.ECC632D0.Up2Date
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\refint\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.pdb
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.genruntimeconfig.cache
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\ref\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.VisualStudio.Validation.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\SoapCoreServer.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Connected Services\ServiceReference1\ConnectedService.json
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Projects\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\appsettings.Development.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\appsettings.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Connected Services\ServiceReference1\ConnectedService.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.exe
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.deps.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.runtimeconfig.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pracSoapCalculator.pdb
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.VisualStudio.Validation.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\SoapCore.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\SoapCoreServer.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.CodeDom.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Http.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\System.ServiceModel.Security.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.csproj.AssemblyReference.cache
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.AssemblyInfoInputs.cache
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.AssemblyInfo.cs
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.csproj.CoreCompileInputs.cache
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.MvcApplicationPartsAssemblyInfo.cs
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.build.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.development.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.pracSoapCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.build.pracSoapCalculator.props
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pracSoapCalculator.props
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pracSoapCalculator.props
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\scopedcss\bundle\pracSoapCalculator.styles.css
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoap.ECC632D0.Up2Date
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\refint\pracSoapCalculator.dll
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.pdb
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\pracSoapCalculator.genruntimeconfig.cache
+C:\Assignments\Dot-Net Api Assignment\pracSoapCalculator\pracSoapCalculator\obj\Debug\net8.0\ref\pracSoapCalculator.dll

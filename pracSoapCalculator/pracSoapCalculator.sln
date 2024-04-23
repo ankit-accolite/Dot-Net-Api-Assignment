@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pracSoapCalculator", "pracSoapCalculator\pracSoapCalculator.csproj", "{49B5C997-EDF3-412C-9F03-E705529F007B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B5C997-EDF3-412C-9F03-E705529F007B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B5C997-EDF3-412C-9F03-E705529F007B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B5C997-EDF3-412C-9F03-E705529F007B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B5C997-EDF3-412C-9F03-E705529F007B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC0CB89-B983-4B9D-851F-165CDA2AB6E7}
+	EndGlobalSection
+EndGlobal
