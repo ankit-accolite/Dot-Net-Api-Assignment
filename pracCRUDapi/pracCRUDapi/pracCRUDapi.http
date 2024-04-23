@@ -1,0 +1,6 @@
+@pracCRUDapi_HostAddress = http://localhost:5012
+
+GET {{pracCRUDapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
