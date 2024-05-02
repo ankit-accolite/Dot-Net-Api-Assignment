@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{49B5C997-EDF3-412C-9F03-E705529F007B}|pracSoapCalculator\\pracSoapCalculator.csproj|solutionrelative:pracsoapcalculator\\controllers\\calccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49B5C997-EDF3-412C-9F03-E705529F007B}|pracSoapCalculator\\pracSoapCalculator.csproj|c:\\assignments\\dot-net api assignment\\pracsoapcalculator\\pracsoapcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49B5C997-EDF3-412C-9F03-E705529F007B}|pracSoapCalculator\\pracSoapCalculator.csproj|solutionrelative:pracsoapcalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{49B5C997-EDF3-412C-9F03-E705529F007B}|pracSoapCalculator\\pracSoapCalculator.csproj|c:\\assignments\\dot-net api assignment\\pracsoapcalculator\\pracsoapcalculator\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49B5C997-EDF3-412C-9F03-E705529F007B}|pracSoapCalculator\\pracSoapCalculator.csproj|solutionrelative:pracsoapcalculator\\calcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "pracSoapCalculator\\Controllers\\CalcController.cs",
               "ToolTip": "C:\\Assignments\\Dot-Net Api Assignment\\pracSoapCalculator\\pracSoapCalculator\\Controllers\\CalcController.cs",
               "RelativeToolTip": "pracSoapCalculator\\Controllers\\CalcController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAswCMAAAAYAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAywBgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T06:28:46.441Z",
               "EditorCaption": ""
@@ -100,18 +96,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Assignments\\Dot-Net Api Assignment\\pracSoapCalculator\\pracSoapCalculator\\Program.cs",
-              "RelativeDocumentMoniker": "pracSoapCalculator\\Program.cs",
-              "ToolTip": "C:\\Assignments\\Dot-Net Api Assignment\\pracSoapCalculator\\pracSoapCalculator\\Program.cs",
-              "RelativeToolTip": "pracSoapCalculator\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T05:57:05.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "CalcService.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Api Assignment\\pracSoapCalculator\\pracSoapCalculator\\CalcService.cs",
               "RelativeDocumentMoniker": "pracSoapCalculator\\CalcService.cs",
@@ -123,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Assignments\\Dot-Net Api Assignment\\pracSoapCalculator\\pracSoapCalculator\\Calculator.cs",
               "RelativeDocumentMoniker": "pracSoapCalculator\\Calculator.cs",
